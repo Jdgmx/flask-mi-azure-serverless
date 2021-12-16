@@ -12,7 +12,7 @@ variables:
   azureServiceConnectionId: '9e1320c2-a8e5-455d-b1bd-262c7759ca30'
 
   # Web app name
-  webAppName: 'flask-ml-service'
+  webAppName: 'joakod-ml-service'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
