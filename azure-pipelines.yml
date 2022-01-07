@@ -9,7 +9,7 @@ trigger:
 variables:
   # Azure Resource Manager connection created during pipeline creation
   # JDG: taken from the URL of the Project's service connection joakod-1-flask-sc
-  azureServiceConnectionId: '9e1320c2-a8e5-455d-b1bd-262c7759ca30'
+  azureServiceConnectionId: 'b6e3ac46-6820-4b1b-9fce-4c0cfaa770cf'
 
   # Web app name
   webAppName: 'joakod-ml-service'
